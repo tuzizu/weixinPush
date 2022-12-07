@@ -227,7 +227,7 @@ def send_message(to_user, access_token, city_name, weather, max_temperature, min
     week = week_list[today.isoweekday() % 7]
     # 获取在一起的日子的日期格式
     love_year = 2020
-    love_month = 08
+    love_month = 8
     love_day = 10
     love_date = date(love_year, love_month, love_day)
     # 获取在一起的日期差
